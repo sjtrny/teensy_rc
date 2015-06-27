@@ -15,7 +15,7 @@ USB interface for your RC receiver and computer using a teensy
 
 # Wiring for Teensy 3.1
 
-<img src="https://raw.githubusercontent.com/sjtrny/teensy_rc/master/wiring.jpg" align = "center" width="400px"/> 
+<img src="https://raw.githubusercontent.com/sjtrny/teensy_rc/master/wiring.jpg" align = "center" width="350px"/> 
 
 # Dependencies
 
