@@ -1,2 +1,18 @@
 # teensy_rc
 USB interface for your RC receiver and computer using a teensy
+
+# Parts Required
+- Teensy 3.1
+- RC Receiever
+
+# Instructions
+- Wire teensy and RC receiver up as per diagram
+- Connect Teensy to your computer via USB
+- Load arduino_teensy_rc.ino on your Teensy using the Arduino IDE
+- Turn on your transmitter
+- Run teensy_rc.pde in Processing to test everything
+- That's it!
+
+# Wiring
+
+<img src="https://raw.githubusercontent.com/sjtrny/teensy_rc/master/wiring.jpg" align = "center" width="100px"/> 
