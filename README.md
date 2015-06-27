@@ -2,7 +2,7 @@
 USB interface for your RC receiver and computer using a teensy
 
 # Parts Required
-- Teensy 3.1
+- [Teensy 3.1](https://www.pjrc.com/teensy/teensy31.html) or [Teensy LC](https://www.pjrc.com/teensy/teensyLC.html)
 - RC Receiever
 
 # Instructions
@@ -13,6 +13,10 @@ USB interface for your RC receiver and computer using a teensy
 - Run teensy_rc.pde in Processing to test everything
 - That's it!
 
-# Wiring
+# Wiring for Teensy 3.1
 
-<img src="https://raw.githubusercontent.com/sjtrny/teensy_rc/master/wiring.jpg" align = "center" width="100px"/> 
+<img src="https://raw.githubusercontent.com/sjtrny/teensy_rc/master/wiring.jpg" align = "center" width="400px"/> 
+
+# Dependencies
+
+- [controlP5](http://www.sojamo.de/libraries/controlP5/)
