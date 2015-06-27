@@ -1,7 +1,7 @@
 # teensy_rc
 USB interface for your RC receiver and computer using a teensy
 
-<img src="https://raw.githubusercontent.com/sjtrny/teensy_rc/master/processing_teensy_rc.png" align = "center" width="300px"/> 
+<img src="https://raw.githubusercontent.com/sjtrny/teensy_rc/master/processing_teensy_rc.png" align = "center" width="333px"/> 
 
 # Parts Required
 - [Teensy 3.1](https://www.pjrc.com/teensy/teensy31.html) or [Teensy LC](https://www.pjrc.com/teensy/teensyLC.html)
