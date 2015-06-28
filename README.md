@@ -11,6 +11,7 @@ USB interface for your RC receiver and computer using a teensy
 - Wire teensy and RC receiver up as per diagram
 - Install the [Arduino](https://www.arduino.cc/en/Main/Software), [Processing](https://processing.org/download/?processing) and [Teensyduino](https://www.pjrc.com/teensy/teensyduino.html) software
 - Connect Teensy to your computer via USB
+- Set your teensy's USB Type to "Serial + KB + Mouse + Joystick"
 - Load arduino_teensy_rc.ino on your Teensy using the Arduino IDE
 - Turn on your transmitter
 - Run processing_teensy_rc.pde in Processing to test everything
